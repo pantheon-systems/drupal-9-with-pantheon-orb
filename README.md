@@ -1,3 +1,7 @@
+# This repository is now archived
+
+**This repository was archived shortly after the release of Drupal 11 when it no longer makes sense to keep open an example repo specific to such an old version of Drupal.**
+
 # Drupal 9 with Pantheon's Build Tools and CircleCI Orb
 
 [![Minimal Support](https://img.shields.io/badge/Pantheon-Minimal_Support-yellow?logo=pantheon&color=FFDC28)](https://pantheon.io/docs/oss-support-levels#minimal-support)
